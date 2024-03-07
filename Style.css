@@ -1,0 +1,67 @@
+h1{
+    color: #3C3633;
+}
+
+h2{
+    color:#3C3633 ;
+}
+
+h3{
+    color: #3C3633;
+}
+
+body{
+    background-color: #747264;
+}
+
+article{
+    box-shadow: 6px 6px 5px 10px #666666;
+    background-color: #E0CCBE;
+}
+
+nav{
+    background-color: #E0CCBE;
+    color: #3C3633;
+    font-size: larger;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    font-weight: bold;
+}
+
+.jumbotron{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #EEEDEB ;
+    padding: 60px;
+}
+
+footer{
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    padding: 30px;
+    background-color: #35374B;
+    color: #78A083;
+}
+
+aside{
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: auto;
+}
+
+li{
+    display: inline;
+    color: #78A083;
+    padding: 10px;
+  
+}
